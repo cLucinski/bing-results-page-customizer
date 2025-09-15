@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Bing Copilot Hider",
   "version": "1.1",
-  "description": "Hide or show the Copilot section on Bing search results.",
+  "description": "Hide or show the Copilot follow-up section on Bing search results.",
   "permissions": ["storage", "scripting"],
   "content_scripts": [
     {

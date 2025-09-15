@@ -1,8 +1,8 @@
 # Bing Results Page Customizer
-A Microsoft Edge extension that lets you toggle the visibility of the Copilot panel on Bing search results.
+A Microsoft Edge extension that lets you toggle the visibility of the Copilot follow-up footer panel on Bing search results.
 
 ## Features
-- Hide or show the Copilot section with one click
+- Hide or show the Copilot follow-up section with one click
 - Saves your preference automatically
 - Lightweight and private — no tracking or data collection
 

@@ -1,5 +1,5 @@
 function setCopilotVisibility(hide) {
-  const copilotDiv = document.getElementById("b_copilot_search");
+  const copilotDiv = document.getElementById("b_bop_cs_sb_place");
   if (copilotDiv) {
     copilotDiv.style.display = hide ? "none" : "";
   }

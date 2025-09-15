@@ -14,10 +14,10 @@ A Microsoft Edge extension that lets you toggle the visibility of the Copilot fo
 
 ## Preview
 ### Without Extension
-<img src="screenshots/screenshotWithoutCustomization(extensionOff).png" alt="Without Extension" width="80%"/>  
+<img src="screenshots/screenshotWithoutCustomization(extensionOff)resize.png" alt="Without Extension" width="90%"/>  
 
 ### With Extension
-<img src="screenshots/screenshotWithCustomization(extensionOn).png" alt="With Extension" width="80%"/>  
+<img src="screenshots/screenshotWithCustomization(extensionOn)resize.png" alt="With Extension" width="90%"/>  
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
